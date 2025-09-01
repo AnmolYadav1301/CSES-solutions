@@ -1,0 +1,1 @@
+{"name":"Local: MoneySum","url":"c:\\D Drive\\VSCode\\cses_sheet\\DynamicProgramming\\MoneySum.cpp","tests":[{"id":1753554126069,"input":"4\n4 2 5 2","output":"9\n2 4 5 6 7 8 9 11 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\DynamicProgramming\\MoneySum.cpp","group":"local","local":true}

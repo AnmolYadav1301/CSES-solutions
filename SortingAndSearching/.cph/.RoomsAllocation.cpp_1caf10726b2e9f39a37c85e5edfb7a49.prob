@@ -1,0 +1,1 @@
+{"name":"Local: RoomsAllocation","url":"c:\\D Drive\\VSCode\\cses_sheet\\part1\\RoomsAllocation.cpp","tests":[{"id":1754414915078,"input":"3\n1 2\n2 4\n4 4","output":"2\n1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\part1\\RoomsAllocation.cpp","group":"local","local":true}

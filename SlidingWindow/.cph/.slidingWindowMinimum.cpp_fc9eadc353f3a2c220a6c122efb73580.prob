@@ -1,0 +1,1 @@
+{"name":"Local: slidingWindowMinimum","url":"c:\\D Drive\\VSCode\\cses_sheet\\SlidingWindow\\slidingWindowMinimum.cpp","tests":[{"id":1755181850812,"input":"8 5\n3 7 1 11","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\SlidingWindow\\slidingWindowMinimum.cpp","group":"local","local":true}

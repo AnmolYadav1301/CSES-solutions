@@ -1,0 +1,1 @@
+{"name":"Local: minimalGridPath","url":"c:\\D Drive\\VSCode\\cses_sheet\\DynamicProgramming\\minimalGridPath.cpp","tests":[{"id":1753460871971,"input":"4\nAACA\nBABC\nABDA\nAACA","output":"AAABACA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\DynamicProgramming\\minimalGridPath.cpp","group":"local","local":true}
