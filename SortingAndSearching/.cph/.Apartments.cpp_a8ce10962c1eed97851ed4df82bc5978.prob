@@ -1,0 +1,1 @@
+{"name":"Local: Apartments","url":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\Apartments.cpp","tests":[{"id":1757090902207,"input":"4 3 5\n60 45 80 60\n30 60 75","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\Apartments.cpp","group":"local","local":true}
