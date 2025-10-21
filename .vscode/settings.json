@@ -3,6 +3,8 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "list": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }

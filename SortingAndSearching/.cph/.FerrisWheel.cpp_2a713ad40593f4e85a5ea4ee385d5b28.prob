@@ -1,0 +1,1 @@
+{"name":"Local: FerrisWheel","url":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\FerrisWheel.cpp","tests":[{"id":1757093110325,"input":"4 10\n7 2 3 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\FerrisWheel.cpp","group":"local","local":true}

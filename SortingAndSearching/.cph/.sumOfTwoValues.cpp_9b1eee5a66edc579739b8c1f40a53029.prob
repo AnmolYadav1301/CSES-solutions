@@ -1,0 +1,1 @@
+{"name":"Local: sumOfTwoValues","url":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\sumOfTwoValues.cpp","tests":[{"id":1757101384293,"input":"4 8\n2 7 5 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\sumOfTwoValues.cpp","group":"local","local":true}

@@ -4,6 +4,20 @@
 #include<algorithm>
 
 using namespace std;
+
+int findRounds(vector<int>&arr){
+    int n=arr.size();
+    vector<int>pos(n);
+    int count=1;
+    for(int i=0;i<(int)arr.size();i++){
+        pos[arr[i]-1]=i;
+    }
+    for(int i=1;i<n;i++){
+        if(pos[i-1]>pos[i])count++;
+    }
+    return count;
+}
+
 int main(){
     int n;cin>>n;
     vector<int>arr(n);
@@ -11,20 +25,21 @@ int main(){
         cin>>arr[i];
     }
 
-    multiset<int>ms;
-    int max_size=0;
-    for(int i=0;i<n;i++){
+    cout<<findRounds(arr);
+    // multiset<int>ms;
+    // int max_size=0;
+    // for(int i=0;i<n;i++){
        
-        auto it=ms.upper_bound(arr[i]);
-        if(it!=ms.begin()){
-            it--;
-            if(*it==arr[i]-1)ms.erase(it);//the numbers that u choose in each round has to be like X,X+1
-                                        // X,X+k for k>1 not acceptable in a single round
-        }
-        ms.insert(arr[i]);
-        max_size=max(max_size,(int)ms.size());
-    }
-    cout<<max_size<<endl;
+    //     auto it=ms.upper_bound(arr[i]);
+    //     if(it!=ms.begin()){
+    //         it--;
+    //         if(*it==arr[i]-1)ms.erase(it);//the numbers that u choose in each round has to be like X,X+1
+    //                                     // X,X+k for k>1 not acceptable in a single round
+    //     }
+    //     ms.insert(arr[i]);
+    //     max_size=max(max_size,(int)ms.size());
+    // }
+    // cout<<max_size<<endl;
 
 
     return 0;

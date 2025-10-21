@@ -1,0 +1,1 @@
+{"name":"Local: CollectingNumbers","url":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\CollectingNumbers.cpp","tests":[{"id":1757160592792,"input":"5\n4 2 1 5 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\SortingAndSearching\\CollectingNumbers.cpp","group":"local","local":true}
