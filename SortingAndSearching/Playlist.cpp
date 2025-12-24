@@ -37,7 +37,9 @@ int main(){
     for(int i=0;i<n;i++)cin>>arr[i];
     // unordered_map<int,int>seen;
     unordered_set<int>seen;
-    seen.reserve(n);
+    seen.reserve(n);// constraint is close so using reserve fasten it, by predefinfing the size we preallocate the bucket size of 
+                    //hash map so that we need not to rehash once size got filled
+                    //or instead of O(2n) we can do it in O(n), by keeping the previous index into consideration
     int i=0,j=0;
     int max_len=0;
     while(j<n){
