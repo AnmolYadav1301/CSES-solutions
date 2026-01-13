@@ -1,0 +1,1 @@
+{"name":"Local: quickSort","url":"c:\\D Drive\\VSCode\\cses_sheet\\Microsoft\\quickSort.cpp","tests":[{"id":1768239431459,"input":"5\n3 1 0 -1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D Drive\\VSCode\\cses_sheet\\Microsoft\\quickSort.cpp","group":"local","local":true}
